@@ -1,1 +1,1 @@
-print("Hello world - script for vcsr-11201")
+print("This is the vcsr-11201.py script")
