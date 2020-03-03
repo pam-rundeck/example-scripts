@@ -1,0 +1,1 @@
+print("Hello world - script for vcsr-11201")
